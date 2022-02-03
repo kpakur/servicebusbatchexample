@@ -1,6 +1,6 @@
-# service bus batch example
+# TypeScript Azure Service Bus batch example
 
-A short example how to consume messages from the Azure Service Bus Topics in batch, multiple messages at once.
+A short example how to consume messages from the Azure Service Bus Topics in batch, multiple messages at once written in TypeScript.
 
 You need to create Azure Service Bus, with Topics and add new topic called `mytopic` and subscription to it `mysubscription`. Then update the conecction string in the project files.
 
